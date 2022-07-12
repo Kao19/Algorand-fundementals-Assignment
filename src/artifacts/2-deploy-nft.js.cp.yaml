@@ -1,0 +1,106 @@
+default:
+    timestamp: 1657547772827
+    metadata: []
+    asa:
+        - - "ACS Shiba Inu #2"
+          - creator: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+            txId: PJ7TWLKDM6FNHSPGL5WKOIOLGPR6LDLYKW5HVF2J2VLRWT2RQJ7Q
+            assetIndex: 161
+            confirmedRound: 36553
+            assetDef:
+                total: 1
+                decimals: 0
+                defaultFrozen: false
+                unitName: ACSNFT
+                url: ipfs://QmfRUN2CaZDQenzWPPBQ2p8eE8upMfhSFQ1JaRpbmJK3BE#arc3
+                metadataHash:
+                    - 253
+                    - 210
+                    - 226
+                    - 25
+                    - 96
+                    - 105
+                    - 95
+                    - 0
+                    - 113
+                    - 170
+                    - 114
+                    - 84
+                    - 80
+                    - 127
+                    - 63
+                    - 83
+                    - 18
+                    - 59
+                    - 204
+                    - 155
+                    - 240
+                    - 6
+                    - 114
+                    - 29
+                    - 255
+                    - 86
+                    - 255
+                    - 195
+                    - 255
+                    - 102
+                    - 240
+                    - 249
+                note: ""
+                manager: ""
+                reserve: ""
+                freeze: ""
+                clawback: ""
+            deleted: false
+        - - "ACS Corgi #1"
+          - creator: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+            txId: FCWSDI3PQIPAU7KU44GNYCMLH2MOOHH7ONYRH2UAA24PUE3CCJJA
+            assetIndex: 160
+            confirmedRound: 36553
+            assetDef:
+                total: 1
+                decimals: 0
+                defaultFrozen: false
+                unitName: ACSNFT
+                url: ipfs://QmbSidrTK7yY7i8TmirrVVPHf4KkyApro5CPCHEB152z7q#arc3
+                metadataHash:
+                    - 194
+                    - 181
+                    - 218
+                    - 211
+                    - 237
+                    - 216
+                    - 110
+                    - 192
+                    - 39
+                    - 166
+                    - 162
+                    - 227
+                    - 41
+                    - 144
+                    - 112
+                    - 181
+                    - 165
+                    - 98
+                    - 214
+                    - 246
+                    - 6
+                    - 88
+                    - 211
+                    - 34
+                    - 190
+                    - 181
+                    - 129
+                    - 57
+                    - 135
+                    - 152
+                    - 161
+                    - 248
+                note: ""
+                manager: ""
+                reserve: ""
+                freeze: ""
+                clawback: ""
+            deleted: false
+    ssc: []
+    dLsig: []

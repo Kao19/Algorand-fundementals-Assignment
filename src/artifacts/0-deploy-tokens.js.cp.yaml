@@ -1,0 +1,24 @@
+default:
+    timestamp: 1657547709148
+    metadata: {}
+    asa:
+        acsCoinASA:
+            creator: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+            txId: 643ASU7FPFJBV6JCFCGYBEVVNXRFO3FNDE5QZEITAVAEUTKHZ6YA
+            assetIndex: 157
+            confirmedRound: 36538
+            assetDef:
+                total: 1000000
+                decimals: 0
+                defaultFrozen: false
+                unitName: ACS
+                url: url
+                note: acs coin
+                manager: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+                reserve: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+                freeze: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+                clawback: FEMHRKSXBGQRMS2BNFB3QNC6OT2TJAYHWVJYG52J3RL6KQI3QD65Z5XALY
+                name: acsCoinASA
+            deleted: false
+    ssc: {}
+    dLsig: {}
