@@ -57,7 +57,7 @@ async function run(runtimeEnv, deployer) {
         const metadata = {
             name: asset.name,
             description: asset.description,
-            image: `ipfs://${result.IpfsHash}/Users/HP/Documents/algorand demos/arc3-nft-Kao19/assets/nft/${asset.file}`,
+            image: `ipfs://${result.IpfsHash}/Users/HP/Documents/algorand demos/arc3-nft-Kao19/assets/nft/${asset.file}`, //my pinata path to the assets. please adjust it to yours
             image_integrity: `sha256-${integrity.base64}`,
             image_mimetype: asset.image_mimetype,
             properties: {
