@@ -61,7 +61,7 @@ async function run(runtimeEnv, deployer) {
             image_integrity: `sha256-${integrity.base64}`,
             image_mimetype: asset.image_mimetype,
             properties: {
-                file_url: `https://gateway.pinata.cloud/ipfs/${result.IpfsHash}/Users/HP/Documents/algorand demos/arc3-nft-Kao19/assets/nft/${asset.file}`,
+                file_url: `https://gateway.pinata.cloud/ipfs/${result.IpfsHash}/Users/HP/Documents/algorand demos/arc3-nft-Kao19/assets/nft/${asset.file}`, //my pinata path to the assets. please adjust it to yours
                 file_url_integrity: `sha256-${integrity.base64}`,
                 file_url_mimetype: asset.image_mimetype,
             },
